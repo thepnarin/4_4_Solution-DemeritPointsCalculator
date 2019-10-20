@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\bin\Debug\4_4_Solution-DemeritPointsCalculator.exe.config
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\bin\Debug\4_4_Solution-DemeritPointsCalculator.exe
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\bin\Debug\4_4_Solution-DemeritPointsCalculator.pdb
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\obj\Debug\4_4_Solution-DemeritPointsCalculator.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\obj\Debug\4_4_Solution-DemeritPointsCalculator.exe
+D:\[OOP] - Object Oriented Programming\Test\4_4_Solution-DemeritPointsCalculator\4_4_Solution-DemeritPointsCalculator\obj\Debug\4_4_Solution-DemeritPointsCalculator.pdb
